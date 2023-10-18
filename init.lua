@@ -164,7 +164,7 @@ require('lazy').setup({
     config = function()
       vim.cmd.colorscheme 'dracula'
     end,
-  }
+  },
 
   {
     -- Set lualine as statusline
